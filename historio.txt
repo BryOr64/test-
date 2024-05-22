@@ -1,5 +1,6 @@
 esta es la historia de Bryan Orosco
 
-Bryan esta aprendiendo a utilizar GIT
+Bryan esta aprendiendo a utilizar GIT HUB
+con los cursos de platzi descargados
 
 hoy hablaremos de como le esta yendo.
